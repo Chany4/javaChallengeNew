@@ -1,0 +1,62 @@
+div{
+    margin: 30px;
+}
+
+/* Minute to Seconds */
+
+.M2S{
+    width: 50%;
+    background-color: blueviolet;
+    border: 2px solid black;
+}
+
+
+/* Next Number Task */
+.nxtNoTask{
+    background-color: aqua;
+    width: 50%;
+    border: 2px solid black;
+}
+
+
+/* Add up task */
+
+.addUpTask{
+    background-color: burlywood;
+    width: 50%;
+    border: 2px solid black;
+
+}
+
+/* Min Max Project */
+
+.minMaxTask{
+    background-color: red;
+    width: 50%;
+    border: 2px solid black;
+}
+
+/* Area of a Triangles */
+
+.AreaTri{
+    background-color: green;
+    width: 50%;
+    border: 2px solid black;
+}
+
+/* Age To Days */
+
+.age2Days{
+    background-color: yellow;
+    width: 50%;
+    border: 2px solid black;
+}
+
+
+/* Interest Project */
+
+.IntAmount{
+    background-color: purple;
+    width: 50%;
+    border: 2px solid black;
+}
